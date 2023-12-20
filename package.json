@@ -1,0 +1,20 @@
+{
+  "name": "node-es6-movies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiodigiacomopepe/node-es6-movies.git"
+  },
+  "author": "Fabio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiodigiacomopepe/node-es6-movies/issues"
+  },
+  "homepage": "https://github.com/fabiodigiacomopepe/node-es6-movies#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
